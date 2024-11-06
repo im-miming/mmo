@@ -1,4 +1,3 @@
-"""
 Monarch Mayfly Optimization (MMO) Algorithm for Feature Selection
 =================================================================
 This implementation of the Monarch Mayfly Optimization (MMO) algorithm
@@ -21,5 +20,5 @@ Disclaimer:
 This code is a hybrid implementation of the aforementioned algorithms and combines elements from both
 to create the MMO algorithm for the purpose of feature selection. Full credit goes to the original authors
 for their contributions.
-"""
+
 
